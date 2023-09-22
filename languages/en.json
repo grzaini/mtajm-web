@@ -1,0 +1,773 @@
+{
+    "hot_songs": {
+        "name": "Hot Songs",
+        "number": 0,
+        "songs": [
+            {
+                "id": 1,
+                "songname": "Nigorim",
+                "url": "audio/hot_songs/Nigorim.mp3"
+            },
+            {
+                "id": 2,
+                "songname": "Yor yor yorie",
+                "url": "audio/hot_songs/Yor yor.mp3"
+            },
+            {
+                "id": 3,
+                "songname": "E_shqingda men yonibman",
+                "url": "audio/hot_songs/E_shqingda men yonibman.mp3"
+            },
+            {
+                "id": 4,
+                "songname": "Aylanaman Charkhning Gezib",
+                "url": "audio/hot_songs/Aylanaman.mp3"
+            },
+            {
+                "id": 5,
+                "songname": "O Gul Oyim",
+                "url": "audio/hot_songs/Gul Oyim.mp3"
+            },
+            {
+                "id": 6,
+                "songname": "Elalla yor Elalla",
+                "url": "audio/hot_songs/Elalla yor Elalla.mp3"
+            },
+            {
+                "id": 7,
+                "songname": "Saripul Qizlari",
+                "url": "audio/hot_songs/Saripul Qizlari.mp3"
+            },
+            {
+                "id": 8,
+                "songname": "Otajon Rahmqiling",
+                "url": "audio/hot_songs/Otajon Rahmqiling.mp3"
+            },
+            {
+                "id": 9,
+                "songname": "Kakir dagan kaylik idim",
+                "url": "audio/hot_songs/Kakir dagan kaylik idim.mp3"
+            },
+            {
+                "id": 16,
+                "songname": "Aymahvashi jononim E_shqinda Xarobing man",
+                "url": "audio/national_tv/Aymahvashi jononim E_shqinda Xarobing man.mp3"
+            }
+        ]
+    },
+    "national_tv": {
+        "name": "Patriotic Songs",
+        "number": 0,
+        "songs": [
+            {
+                "id": 10,
+                "songname": "Uzbek Bala",
+                "url": "audio/national_tv/Uzbek Bala.MP3"
+            },
+            {
+                "id": 11,
+                "songname": "Afg_aniston Afg_oniston",
+                "url": "audio/national_tv/Afg_aniston Afg_oniston.mp3"
+            },
+            {
+                "id": 12,
+                "songname": "Arzimni Aytay",
+                "url": "audio/national_tv/Arzimni Aytay.mp3"
+            },
+            {
+                "id": 13,
+                "songname": "Janon Yigitalar",
+                "url": "audio/national_tv/Janon Yigitalar.mp3"
+            },
+            {
+                "id": 14,
+                "songname": "Sevaman man watanimni",
+                "url": "audio/national_tv/Sevaman man watanimni.mp3"
+            },
+            {
+                "id": 15,
+                "songname": "Keldi yor keldi yor yangi davron",
+                "url": "audio/national_tv/Keldi yor keldi yor yangi davron.mp3"
+            },
+            {
+                "id": 17,
+                "songname": "Ashyanem san Vatan",
+                "url": "audio/national_tv/Vatan 2.mp3"
+            }
+        ]
+    },
+    "fulklor": {
+        "name": "Fulklore Songs",
+        "number": 0,
+        "songs": [
+            {
+                "id": 1,
+                "songname": "Parvonaman Jonim",
+                "url": "audio/fulklor/Parvonaman Jonim.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Sesam O_ldirarlar",
+                "url": "audio/fulklor/Sesam O_ldirarlar.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Anargolinorguli",
+                "url": "audio/fulklor/Anargolinorguli.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "O_lay O_ldirasizmi",
+                "url": "audio/fulklor/O_lay O_ldirasizmi 1.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Dilbar",
+                "url": "audio/fulklor/Dilbar 2.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Qizgina",
+                "url": "audio/fulklor/Qizgina.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Kichkina Qaychi",
+                "url": "audio/fulklor/Kichkina Qaychi.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Qashingni Qara diedelar",
+                "url": "audio/fulklor/Qashingni Qara diedelar.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Yor Ainalai desammi",
+                "url": "audio/fulklor/Yor Ainalai desammi.mp3"
+            }
+        ]
+    },
+    "adham_songs": {
+        "name": "Songs from Adham",
+        "number": 0,
+        "songs": [
+            {
+                "id": 1,
+                "songname": "Kungilni maqsudi guli gulzordur",
+                "url": "audio/adham_songs/Kungilni maqsudi guli gulzordur.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "O_gilsizdan",
+                "url": "audio/adham_songs/O_gilsizdan .mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Qaydasan",
+                "url": "audio/adham_songs/Qaydasan.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Balangman man (Ebrahim Adham)",
+                "url": "audio/adham_songs/Balangman man (Ebrahim Adham) (1).mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Seni deb Balxaro keldim",
+                "url": "audio/adham_songs/Seni deb Balxaro keldim.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "E_shq g_olibdur naylay ixtiyorimni",
+                "url": "audio/adham_songs/E_shq g_olibdur naylay ixtiyorimni  (Ebrahim Adham) (8).mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Ey malak simo pari kim hurmusan g_ilmon musan",
+                "url": "audio/adham_songs/Ey malak simo pari kim hurmusan g_ilmon musan.mp3"
+            }
+        ]
+    },
+    "golden_songs": {
+        "name": "Golden Songs",
+        "number": 0,
+        "songs": [
+            {
+                "id": 1,
+                "songname": "Bashlama gen Jawr jafa ni",
+                "url": "audio/golden_songs/Bashlama.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "O_xshamas",
+                "url": "audio/golden_songs/O_xshamas.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Hijron O_tig_a",
+                "url": "audio/golden_songs/Hijron O_tig_a.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Ey  kunglim olgan g_uchalab",
+                "url": "audio/golden_songs/Ey  kunglim olgan g_uchalab.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Qilmasun",
+                "url": "audio/golden_songs/Qilmasun.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Aylama",
+                "url": "audio/golden_songs/Aylama.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Oqibat",
+                "url": "audio/golden_songs/Oqibat.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Aylading",
+                "url": "audio/golden_songs/Aylading.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Til Tig_i Birla Qilding Kunglimni Pora",
+                "url": "audio/golden_songs/Til Tig_i Birla Qilding Kunglimni Pora.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Qiyma qalam qashlaring",
+                "url": "audio/golden_songs/Qiyma qalam qashlaring.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Isbermagay Qizilgul",
+                "url": "audio/golden_songs/Isbermagay Qizilgul.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Shabodalar",
+                "url": "audio/golden_songs/Shabodalar.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Gulpari E_shqiga",
+                "url": "audio/golden_songs/Gulpari E_shqiga.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Kel Nigorim Sen O_zing",
+                "url": "audio/golden_songs/Kel Nigorim Sen O_zing.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Ra_nosan",
+                "url": "audio/namely_songs/Ra_nosan.mp3"
+            }
+        ]
+    },
+    "persian": {
+        "name": "Persian songs",
+        "number": 0,
+        "songs": [
+            {
+                "id": 1,
+                "songname": "Layli Layli Laylijon",
+                "url": "audio/persian/O_ Layli Layli Laylijon (Forscha).mp3"
+            },
+            {
+                "id": 1,
+                "songname": "ashqari",
+                "url": "audio/persian/ashqari.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "ay dostan",
+                "url": "audio/persian/ay dostan.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "ay noor har do deda",
+                "url": "audio/persian/ay noor har do deda.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "chashme syahe",
+                "url": "audio/persian/chashme syahe.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "dagh e tamannai too",
+                "url": "audio/persian/dagh e tamannai too.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Mastana Mastana",
+                "url": "audio/persian/mastana mastana.mp3"
+            }
+        ]
+    },
+    "national": {
+        "name": "National",
+        "number": 0,
+        "songs": [
+            {
+                "id": 1,
+                "songname": "Suvsagan Qo_ydek Bo_lib",
+                "url": "audio/national/Suvsagan Qo_ydek Bo_lib.mp3"
+            }
+        ]
+    },
+    "namely_songs": {
+        "name": "Songs with Person's name",
+        "number": 0,
+        "songs": [
+            {
+                "id": 1,
+                "songname": "Maryamjan",
+                "url": "audio/namely_songs/Maryamjan.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "zulayxo jon jigi jigi ok",
+                "url": "audio/namely_songs/zulayxo jon jigi jigi ok.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Oy Jamol",
+                "url": "audio/namely_songs/Oy Jamol.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Gulnor jon",
+                "url": "audio/namely_songs/Gulnor jon.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Shaldirdadi baldog_laring",
+                "url": "audio/namely_songs/Shaldirdadi baldog_laring.mp3"
+            }
+        ]
+    },
+    "poems": {
+        "name": "Poems",
+        "number": 0,
+        "songs": [
+            {
+                "id": 1,
+                "songname": "Dilorodursan",
+                "url": "audio/poems/Dilorodursan.MP3"
+            },
+            {
+                "id": 1,
+                "songname": "Hajringda Dog_man",
+                "url": "audio/poems/Hajringda Dog_man.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Bahorimni",
+                "url": "audio/poems/Bahorimni.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Munchaham",
+                "url": "audio/poems/Munchaham.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Ko_zlaring",
+                "url": "audio/poems/Ko_zlaring.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Xazon Bo_lgan Bahorimni",
+                "url": "audio/poems/Xazon Bo_lgan Bahorimni.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "E_shqinda zor o_ldim netay",
+                "url": "audio/poems/E_shqinda zor o_ldim netay.mp3"
+            }
+        ]
+    },
+    "damboora": {
+        "name": "Damboora",
+        "number": 0,
+        "songs": [
+            {
+                "id": 1,
+                "songname": "O_ynang O_rtoq",
+                "url": "audio/damboora/O_ynang O_rtoq.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Laylo",
+                "url": "audio/damboora/Laylo 1.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Amon Guzal O_g_lon",
+                "url": "audio/damboora/Amon Guzal O_g_lon.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Ovoraderlar mani",
+                "url": "audio/damboora/Ovoraderlar mani.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Jon jon qo_zim bosmang sarandozimni",
+                "url": "audio/damboora/Jon jon qo_zim bosmang sarandozimni.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Qora Ko_zga Xo_shtorman",
+                "url": "audio/damboora/Qora Ko_zga Xo_shtorman.mp3"
+            }
+        ]
+    },
+    "damboora_new": {
+        "name": "Damboora New Songs",
+        "number": 0,
+        "songs": [
+            {
+                "id": 1,
+                "songname": "ayting Oul delruba ga",
+                "url": "audio/damboora_new/ayting Oul delruba ga.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "ba nazo ada keldi",
+                "url": "audio/damboora_new/ba nazo ada keldi.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "dardinga marham door",
+                "url": "audio/damboora_new/dardinga marham door.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "liala gozalim laila",
+                "url": "audio/damboora_new/liala gozalim laila.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "men nala qelai",
+                "url": "audio/damboora_new/men nala qelai.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Shool qara koozlarin",
+                "url": "audio/damboora_new/Shool qara koozlarin.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "tooshda korob man bo tooshni",
+                "url": "audio/damboora_new/tooshda korob man bo tooshni.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "yooq khabaring",
+                "url": "audio/damboora_new/yooq khabaring.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Yor moncha zar etma",
+                "url": "audio/damboora_new/Yor moncha zar etma.mp3"
+            }
+        ]
+    },
+    "nawnukar_songs": {
+        "name": "Songs from Naw Nokar",
+        "number": 0,
+        "songs": [
+            {
+                "id": 1,
+                "songname": "San bog_ aro qo_ysanga qadam",
+                "url": "audio/nawnukar_songs/San bog_ aro qo_ysanga qadam.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Oydek yuzingni ko_rgani keldim",
+                "url": "audio/nawnukar_songs/Oydek yuzingni ko_rgani keldim.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Ana qaddu Ana qomat  hay hay",
+                "url": "audio/nawnukar_songs/Ana qaddu Ana qomat  hay hay.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "San Bog_aro",
+                "url": "audio/nawnukar_songs/San Bog_aro.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Mani vaslingga yetkurgil",
+                "url": "audio/nawnukar_songs/Mani vaslingga yetkurgil .mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Nechalar",
+                "url": "audio/nawnukar_songs/Nechalar.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Eshikingda",
+                "url": "audio/nawnukar_songs/Eshikingda.mp3"
+            }
+        ]
+    },
+    "joky_songs": {
+        "name": "Joky Songs",
+        "number": 0,
+        "songs": [
+            {
+                "id": 1,
+                "songname": "aylanaman charkhning",
+                "url": "audio/joky_songs/aylanaman charkhning.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Boing chenar yor yor",
+                "url": "audio/joky_songs/Boing chenar yor yor.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "galla_bagh",
+                "url": "audio/joky_songs/galla_bagh.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "pashtoo joke",
+                "url": "audio/joky_songs/pashtoo joke.mp3"
+            }
+        ]
+    },
+    "naat": {
+        "name": "Naat",
+        "number": 0,
+        "songs": [
+            {
+                "id": 1,
+                "songname": "Arabi Naat_Ya Nabial Mohtaram",
+                "url": "audio/naat/arabi naat- ya nabial mohtaram.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Arabi Naat",
+                "url": "audio/naat/arabi naat.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Assalam",
+                "url": "audio/naat/assalam.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Ay Falak",
+                "url": "audio/naat/ay falak.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Ay Monawwar Az Qdomat",
+                "url": "audio/naat/ay monawwar az qdomat.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Az Hamd W Naat Mustafa",
+                "url": "audio/naat/az hamd w naat mustafa.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Dar Monajat Amadam",
+                "url": "audio/naat/dar monajat amadam.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Lutfe Khoda",
+                "url": "audio/naat/lutfe khoda.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Mah Rokhsarat",
+                "url": "audio/naat/mah rokhsarat.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Marhaba Saudi Makka",
+                "url": "audio/naat/marhaba saedi makki.mp3"
+            }
+        ]
+    },
+    "adham_novel": {
+        "name": "Adham Novel",
+        "number": 0,
+        "songs": [
+            {
+                "id": 1,
+                "songname": "Part 1",
+                "url": "audio/adham_novel/Adham 01.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Part 2",
+                "url": "audio/adham_novel/Adham 02.mp3"
+            }
+        ]
+    },
+    "baba_roshan_novel": {
+        "name": "Baba Roshan Novel",
+        "number": 0,
+        "songs": [
+            {
+                "id": 1,
+                "songname": "Part 1",
+                "url": "audio/baba_roshan_novel/Baba Roshan 01.MP3"
+            },
+            {
+                "id": 1,
+                "songname": "Part 2",
+                "url": "audio/baba_roshan_novel/Baba Roshan 02.MP3"
+            }
+        ]
+    },
+    "eusuf_novel": {
+        "name": "Eusuf Novel",
+        "number": 0,
+        "songs": [
+            {
+                "id": 1,
+                "songname": "Part 1",
+                "url": "audio/eusuf_novel/EUSUF  01.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Part 2",
+                "url": "audio/eusuf_novel/EUSUF  02.mp3"
+            }
+        ]
+    },
+    "ghareeb_w_sha-sanam_novel": {
+        "name": "Ghareeb W Sha-sanam Novel",
+        "number": 0,
+        "songs": [
+            {
+                "id": 1,
+                "songname": "Part 1",
+                "url": "audio/ghareeb_w_sha-sanam_novel/Ghareeb w Sha-sanam 01.wav"
+            },
+            {
+                "id": 1,
+                "songname": "Part 2",
+                "url": "audio/ghareeb_w_sha-sanam_novel/Ghareeb w Sha-sanam 02.mp3"
+            }
+        ]
+    },
+    "khaibar_novel": {
+        "name": "Khaibar Novel",
+        "number": 0,
+        "songs": [
+            {
+                "id": 1,
+                "songname": "Part 1",
+                "url": "audio/khaibar_novel/Khaibar 02.mp3"
+            }
+        ]
+    },
+    "mashraf_novel": {
+        "name": "Mashraf Novel",
+        "number": 0,
+        "songs": [
+            {
+                "id": 1,
+                "songname": "Part 1",
+                "url": "audio/mashraf_novel/Mashraf 01.MP3"
+            },
+            {
+                "id": 1,
+                "songname": "Part 2",
+                "url": "audio/mashraf_novel/Mashraf 02.mp3"
+            }
+        ]
+    },
+    "nawnokar_novel": {
+        "name": "Naw Nokar Novel",
+        "number": 0,
+        "songs": [
+            {
+                "id": 1,
+                "songname": "Part 1",
+                "url": "audio/nawnokar_novel/NawNokar 01.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Part 2",
+                "url": "audio/nawnokar_novel/NawNokar 02.mp3"
+            }
+        ]
+    },
+    "saiful_malek_novel": {
+        "name": "Saiful Malek Novel",
+        "number": 0,
+        "songs": [
+            {
+                "id": 1,
+                "songname": "Part 1",
+                "url": "audio/saiful_malek_novel/Saiful-Malek 01.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Part 2",
+                "url": "audio/saiful_malek_novel/Saiful-Malek 02.mp3"
+            }
+        ]
+    },
+    "sawdagar_novel": {
+        "name": "Sawdagar Novel",
+        "number": 0,
+        "songs": [
+            {
+                "id": 1,
+                "songname": "Part 1",
+                "url": "audio/sawdagar_novel/Sawdagar 01.MP3"
+            },
+            {
+                "id": 1,
+                "songname": "Part 2",
+                "url": "audio/sawdagar_novel/Sawdagar 02.MP3"
+            }
+        ]
+    },
+    "zainul_arab_novel": {
+        "name": "Zainul Arab Novel",
+        "number": 0,
+        "songs": [
+            {
+                "id": 1,
+                "songname": "Part 1",
+                "url": "audio/zainul_arab_novel/Zainul Arab 01.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Part 2",
+                "url": "audio/zainul_arab_novel/Zainul Arab 02.mp3"
+            },
+            {
+                "id": 1,
+                "songname": "Part 3",
+                "url": "audio/zainul_arab_novel/Zainul Arab 03.mp3"
+            }
+        ]
+    },
+    "message": {
+        "title": "بو صحیفه گه خوش کیلدینگیز!",
+        "albums_title": "Songs & Novels",
+        "novel_title": "Novels",
+        "mullah_name": "Mullah Taj Mohammad",
+        "info": "He is one of the best Uzbekish singers in North Afghanistan and has sung since 1971, listed here more than 200 of his songs. His unique catchy voice catches his audience and nobody can never be found in north Afghanistan who did not know him and didn’t hear his songs."
+    }
+}
